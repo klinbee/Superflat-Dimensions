@@ -1,0 +1,7 @@
+{
+  "": "Different than default for efficiency optimization",
+  "type": "minecraft:flat_cache",
+  "argument": {
+    "type": "minecraft:end_islands"
+  }
+}

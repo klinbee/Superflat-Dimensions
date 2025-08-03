@@ -1,0 +1,28 @@
+{
+  "": "Max height from 30 -> -16 to not be on surface. Rarity 24 -> 50 (range 88 -> 42 -> 42/88 * 24 -> ~1/50 -> 50), equivalent normal rarity in range",
+  "feature": "minecraft:amethyst_geode",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 50
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "above_bottom": 6
+        },
+        "max_inclusive": {
+          "absolute": -16
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}
