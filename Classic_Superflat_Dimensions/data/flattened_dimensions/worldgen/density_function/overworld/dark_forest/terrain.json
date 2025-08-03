@@ -1,0 +1,6 @@
+{
+  "": "Reads as is_y64 && is_dark_forest",
+  "type": "minecraft:min",
+  "argument1": "flattened_dimensions:overworld/dark_forest/is_y64",
+  "argument2": "flattened_dimensions:overworld/dark_forest/is_dark_forest"
+}

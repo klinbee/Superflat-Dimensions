@@ -1,0 +1,21 @@
+{
+  "": "Used to remove barrier terrain spawned in dark_forests to enable mansion spawning",
+  "type": "minecraft:disk",
+  "config": {
+    "state_provider": {
+      "fallback": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:air"
+        }
+      },
+      "rules": []
+    },
+    "radius": 8,
+    "half_height": 4,
+    "target": {
+      "type": "minecraft:matching_blocks",
+      "blocks": "minecraft:barrier"
+    }
+  }
+}

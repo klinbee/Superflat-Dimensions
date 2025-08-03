@@ -1,0 +1,12 @@
+{
+  "": "Reads as if -64 =< y < 0 then use depth, else 0",
+  "type": "minecraft:cache_once",
+  "argument": {
+    "type": "minecraft:range_choice",
+    "input": "minecraft:y",
+    "min_inclusive": -64,
+    "max_exclusive": 0,
+    "when_in_range": "minecraft:overworld/depth",
+    "when_out_of_range": 0
+  }
+}

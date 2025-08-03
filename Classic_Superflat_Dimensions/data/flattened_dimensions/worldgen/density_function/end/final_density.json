@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:range_choice",
+  "input": "minecraft:y",
+  "min_inclusive": 61,
+  "max_exclusive": 65,
+  "when_in_range": {
+    "type": "minecraft:interpolated",
+    "argument": {
+      "type": "minecraft:blend_density",
+      "argument": {
+        "type": "minecraft:flat_cache",
+        "argument": {
+          "type": "minecraft:cache_2d",
+          "argument": {
+            "type": "minecraft:add",
+            "argument1": {
+              "type": "minecraft:end_islands"
+            },
+            "argument2": "minecraft:end/base_3d_noise"
+          }
+        }
+      }
+    }
+  },
+  "when_out_of_range": 0
+}

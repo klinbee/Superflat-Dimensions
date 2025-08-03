@@ -1,0 +1,45 @@
+{
+  "pack": {
+    "description": [
+      {
+        "color": "#aaff80",
+        "text": "Classic Superflat, All Biomes"
+      },
+      "\n",
+      {
+        "color": "#AAAAAA",
+        "text": "Made by "
+      },
+      {
+        "color": "#ffc76f",
+        "text": "Klinbee"
+      }
+    ],
+    "pack_format": 15,
+    "supported_formats": [15, 999]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "overlay_1_20_5",
+        "formats": [41, 999]
+      },
+      {
+        "directory": "overlay_1_21",
+        "formats": [48, 999]
+      },
+      {
+        "directory": "overlay_1_21_2",
+        "formats": [57, 999]
+      },
+      {
+        "directory": "overlay_1_21_4",
+        "formats": [61, 999]
+      },
+      {
+        "directory": "overlay_1_21_5",
+        "formats": [71, 999]
+      }
+    ]
+  }
+}
