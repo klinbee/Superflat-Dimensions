@@ -1,0 +1,1317 @@
+{
+  "type": "minecraft:flat_cache",
+  "argument": {
+    "type": "minecraft:spline",
+    "spline": {
+      "coordinate": "superflat_dimensions:overworld/ridges",
+      "points": [
+        {
+          "location": -0.933,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.19, "value": 0, "derivative": 0 },
+              {
+                "location": -0.19,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.223, "value": 0, "derivative": 0 },
+                    { "location": -0.223, "value": 1, "derivative": 0 },
+                    { "location": 0.05, "value": 1, "derivative": 0 },
+                    { "location": 0.05, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.223, "value": 0, "derivative": 0 },
+                    { "location": -0.223, "value": 1, "derivative": 0 },
+                    { "location": 0.05, "value": 1, "derivative": 0 },
+                    { "location": 0.05, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": -0.933,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.19, "value": 0, "derivative": 0 },
+              {
+                "location": -0.19,
+                "value": 1,
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": 1,
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.375, "value": 0, "derivative": 0 },
+                    { "location": -0.375, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": -0.767,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.19, "value": 0, "derivative": 0 },
+              {
+                "location": -0.19,
+                "value": 1,
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": 1,
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.375, "value": 0, "derivative": 0 },
+                    { "location": -0.375, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": -0.767,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.19, "value": 0, "derivative": 0 },
+              {
+                "location": -0.19,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.375, "value": 0, "derivative": 0 },
+                    { "location": -0.375, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": -0.567,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.19, "value": 0, "derivative": 0 },
+              {
+                "location": -0.19,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.375, "value": 0, "derivative": 0 },
+                    { "location": -0.375, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": -0.567,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.19, "value": 0, "derivative": 0 },
+              {
+                "location": -0.19,
+                "value": 1,
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": 1,
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.375, "value": 0, "derivative": 0 },
+                    { "location": -0.375, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": -0.4,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.19, "value": 0, "derivative": 0 },
+              {
+                "location": -0.19,
+                "value": 1,
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": 1,
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.375, "value": 0, "derivative": 0 },
+                    { "location": -0.375, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": -0.4,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.19, "value": 0, "derivative": 0 },
+              {
+                "location": -0.19,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.223, "value": 0, "derivative": 0 },
+                    { "location": -0.223, "value": 1, "derivative": 0 },
+                    { "location": 0.05, "value": 1, "derivative": 0 },
+                    { "location": 0.05, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.223, "value": 0, "derivative": 0 },
+                    { "location": -0.223, "value": 1, "derivative": 0 },
+                    { "location": 0.05, "value": 1, "derivative": 0 },
+                    { "location": 0.05, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": -0.267,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.19, "value": 0, "derivative": 0 },
+              {
+                "location": -0.19,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.223, "value": 0, "derivative": 0 },
+                    { "location": -0.223, "value": 1, "derivative": 0 },
+                    { "location": 0.05, "value": 1, "derivative": 0 },
+                    { "location": 0.05, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.223, "value": 0, "derivative": 0 },
+                    { "location": -0.223, "value": 1, "derivative": 0 },
+                    { "location": 0.05, "value": 1, "derivative": 0 },
+                    { "location": 0.05, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": -0.267,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.11, "value": 0, "derivative": 0 },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": -0.05,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.11, "value": 0, "derivative": 0 },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": -0.05,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": 0.03, "value": 0, "derivative": 0 },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.375, "value": 1, "derivative": 0 },
+                    { "location": -0.375, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": 0.05,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": 0.03, "value": 0, "derivative": 0 },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.375, "value": 1, "derivative": 0 },
+                    { "location": -0.375, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": 0.05,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              {
+                "location": -0.19,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.19,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": 0.267,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              {
+                "location": -0.19,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.19,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": 0.267,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.19, "value": 0, "derivative": 0 },
+              {
+                "location": -0.19,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.223, "value": 0, "derivative": 0 },
+                    { "location": -0.223, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.223, "value": 0, "derivative": 0 },
+                    { "location": -0.223, "value": 1, "derivative": 0 },
+                    { "location": 0.05, "value": 1, "derivative": 0 },
+                    { "location": 0.05, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": 0.4,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.19, "value": 0, "derivative": 0 },
+              {
+                "location": -0.19,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.223, "value": 0, "derivative": 0 },
+                    { "location": -0.223, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.223, "value": 0, "derivative": 0 },
+                    { "location": -0.223, "value": 1, "derivative": 0 },
+                    { "location": 0.05, "value": 1, "derivative": 0 },
+                    { "location": 0.05, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": 0.4,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.19, "value": 0, "derivative": 0 },
+              {
+                "location": -0.19,
+                "value": 1,
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": 1,
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.375, "value": 0, "derivative": 0 },
+                    { "location": -0.375, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": 0.567,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.19, "value": 0, "derivative": 0 },
+              {
+                "location": -0.19,
+                "value": 1,
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": 1,
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.375, "value": 0, "derivative": 0 },
+                    { "location": -0.375, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": 0.567,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.19, "value": 0, "derivative": 0 },
+              {
+                "location": -0.19,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.375, "value": 0, "derivative": 0 },
+                    { "location": -0.375, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": 0.767,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.19, "value": 0, "derivative": 0 },
+              {
+                "location": -0.19,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.375, "value": 0, "derivative": 0 },
+                    { "location": -0.375, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": 0.767,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.19, "value": 0, "derivative": 0 },
+              {
+                "location": -0.19,
+                "value": 1,
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": 1,
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.375, "value": 0, "derivative": 0 },
+                    { "location": -0.375, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": 0.933,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.19, "value": 0, "derivative": 0 },
+              {
+                "location": -0.19,
+                "value": 1,
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": 1,
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.375, "value": 0, "derivative": 0 },
+                    { "location": -0.375, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        },
+        {
+          "location": 0.933,
+          "value": {
+            "coordinate": "superflat_dimensions:overworld/continents",
+            "points": [
+              { "location": -0.19, "value": 0, "derivative": 0 },
+              {
+                "location": -0.19,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.223, "value": 0, "derivative": 0 },
+                    { "location": -0.223, "value": 1, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.223, "value": 0, "derivative": 0 },
+                    { "location": -0.223, "value": 1, "derivative": 0 },
+                    { "location": 0.05, "value": 1, "derivative": 0 },
+                    { "location": 0.05, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": -0.11,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 1, "derivative": 0 },
+                    { "location": 0.55, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              },
+              {
+                "location": 0.03,
+                "value": {
+                  "coordinate": "superflat_dimensions:overworld/erosion",
+                  "points": [
+                    { "location": -0.78, "value": 0, "derivative": 0 },
+                    { "location": -0.78, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 1, "derivative": 0 },
+                    { "location": 0.45, "value": 0, "derivative": 0 }
+                  ]
+                },
+                "derivative": 0
+              }
+            ]
+          },
+          "derivative": 0
+        }
+      ]
+    }
+  }
+}

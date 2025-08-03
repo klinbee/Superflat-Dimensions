@@ -19,10 +19,7 @@
     "water_fog_color": 5597568
   },
   "features": [
-    [
-      "flattened_dimensions:xz0_y60",
-      "flattened_dimensions:xz8_y60"
-    ],
+    ["superflat_dimensions:xz0_y60", "superflat_dimensions:xz8_y60"],
     [],
     [],
     [],
@@ -31,13 +28,8 @@
     [],
     [],
     [],
-    [
-      "minecraft:pale_garden_flowers",
-      "minecraft:flower_pale_garden"
-    ],
-    [
-      "minecraft:freeze_top_layer"
-    ]
+    ["minecraft:pale_garden_flowers", "minecraft:flower_pale_garden"],
+    ["minecraft:freeze_top_layer"]
   ],
   "has_precipitation": true,
   "spawn_costs": {},

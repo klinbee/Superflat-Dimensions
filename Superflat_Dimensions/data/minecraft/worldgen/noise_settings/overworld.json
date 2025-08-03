@@ -21,21 +21,21 @@
     "size_vertical": 2
   },
   "noise_router": {
-    "barrier": "flattened_dimensions:overworld/aquifer/barrier",
-    "fluid_level_floodedness": "flattened_dimensions:overworld/aquifer/fluid_level_floodedness",
-    "fluid_level_spread": "flattened_dimensions:overworld/aquifer/fluid_level_spread",
-    "lava": "flattened_dimensions:overworld/aquifer/lava",
-    "temperature": "flattened_dimensions:overworld/temperature",
-    "vegetation": "flattened_dimensions:overworld/vegetation",
-    "continents": "flattened_dimensions:overworld/continents",
-    "erosion": "flattened_dimensions:overworld/erosion",
-    "depth": "flattened_dimensions:overworld/depth",
-    "ridges": "flattened_dimensions:overworld/ridges",
-    "initial_density_without_jaggedness": "flattened_dimensions:overworld/initial_density_without_jaggedness",
-    "final_density": "flattened_dimensions:overworld/final_density",
-    "vein_toggle": "flattened_dimensions:overworld/vein/toggle",
-    "vein_ridged": "flattened_dimensions:overworld/vein/ridged",
-    "vein_gap": "flattened_dimensions:overworld/vein/gap"
+    "barrier": "superflat_dimensions:overworld/aquifer/barrier",
+    "fluid_level_floodedness": "superflat_dimensions:overworld/aquifer/fluid_level_floodedness",
+    "fluid_level_spread": "superflat_dimensions:overworld/aquifer/fluid_level_spread",
+    "lava": "superflat_dimensions:overworld/aquifer/lava",
+    "temperature": "superflat_dimensions:overworld/temperature",
+    "vegetation": "superflat_dimensions:overworld/vegetation",
+    "continents": "superflat_dimensions:overworld/continents",
+    "erosion": "superflat_dimensions:overworld/erosion",
+    "depth": "superflat_dimensions:overworld/depth",
+    "ridges": "superflat_dimensions:overworld/ridges",
+    "initial_density_without_jaggedness": "superflat_dimensions:overworld/initial_density_without_jaggedness",
+    "final_density": "superflat_dimensions:overworld/final_density",
+    "vein_toggle": "superflat_dimensions:overworld/vein/toggle",
+    "vein_ridged": "superflat_dimensions:overworld/vein/ridged",
+    "vein_gap": "superflat_dimensions:overworld/vein/gap"
   },
   "spawn_target": [
     {

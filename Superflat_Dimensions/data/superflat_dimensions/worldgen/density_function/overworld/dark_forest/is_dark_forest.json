@@ -1,0 +1,13 @@
+{
+  "": "Reads as is_temperate && is_humid && is_middle",
+  "type": "minecraft:flat_cache",
+  "argument": {
+    "type": "minecraft:min",
+    "argument1": "superflat_dimensions:overworld/dark_forest/is_temperate",
+    "argument2": {
+      "type": "minecraft:min",
+      "argument1": "superflat_dimensions:overworld/dark_forest/is_humid",
+      "argument2": "superflat_dimensions:overworld/dark_forest/is_middle"
+    }
+  }
+}

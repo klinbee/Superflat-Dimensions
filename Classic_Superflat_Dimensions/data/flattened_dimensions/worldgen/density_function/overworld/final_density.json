@@ -1,6 +1,0 @@
-{
-  "": "Reads as superflat/terrain || dark_forest/terrain",
-  "type": "minecraft:max",
-  "argument1": "flattened_dimensions:overworld/superflat/terrain",
-  "argument2": "flattened_dimensions:overworld/dark_forest/terrain"
-}

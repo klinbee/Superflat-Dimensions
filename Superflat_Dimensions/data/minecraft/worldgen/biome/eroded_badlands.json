@@ -29,17 +29,9 @@
   },
   "features": [
     [],
-    [
-      "minecraft:lake_lava_underground",
-      "minecraft:lake_lava_surface"
-    ],
-    [
-      "minecraft:amethyst_geode"
-    ],
-    [
-      "minecraft:monster_room",
-      "minecraft:monster_room_deep"
-    ],
+    ["minecraft:lake_lava_underground", "minecraft:lake_lava_surface"],
+    ["minecraft:amethyst_geode"],
+    ["minecraft:monster_room", "minecraft:monster_room_deep"],
     [],
     [],
     [
@@ -50,18 +42,18 @@
     ],
     [],
     [
-      "flattened_dimensions:xz0_y-44",
-      "flattened_dimensions:xz8_y-44",
-      "flattened_dimensions:xz0_y-36",
-      "flattened_dimensions:xz8_y-36",
-      "flattened_dimensions:xz0_y-28",
-      "flattened_dimensions:xz8_y-28",
-      "flattened_dimensions:xz0_y-20",
-      "flattened_dimensions:xz8_y-20",
-      "flattened_dimensions:xz0_y-12",
-      "flattened_dimensions:xz8_y-12",
-      "flattened_dimensions:xz0_y-4",
-      "flattened_dimensions:xz8_y-4"
+      "superflat_dimensions:xz0_y-44",
+      "superflat_dimensions:xz8_y-44",
+      "superflat_dimensions:xz0_y-36",
+      "superflat_dimensions:xz8_y-36",
+      "superflat_dimensions:xz0_y-28",
+      "superflat_dimensions:xz8_y-28",
+      "superflat_dimensions:xz0_y-20",
+      "superflat_dimensions:xz8_y-20",
+      "superflat_dimensions:xz0_y-12",
+      "superflat_dimensions:xz8_y-12",
+      "superflat_dimensions:xz0_y-4",
+      "superflat_dimensions:xz8_y-4"
     ],
     [
       "minecraft:glow_lichen",
@@ -73,9 +65,7 @@
       "minecraft:patch_pumpkin",
       "minecraft:patch_cactus_decorated"
     ],
-    [
-      "minecraft:freeze_top_layer"
-    ]
+    ["minecraft:freeze_top_layer"]
   ],
   "has_precipitation": false,
   "spawn_costs": {},
