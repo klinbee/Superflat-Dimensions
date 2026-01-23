@@ -23,6 +23,7 @@
     "water_fog_color": 329011
   },
   "features": [
+    ["superflat_dimensions:xz0_y60", "superflat_dimensions:xz8_y60"],
     [],
     [],
     [],
@@ -31,13 +32,8 @@
     [],
     [],
     [],
-    [],
-    [
-      "minecraft:flower_default"
-    ],
-    [
-      "minecraft:freeze_top_layer"
-    ]
+    ["minecraft:flower_default"],
+    ["minecraft:freeze_top_layer"]
   ],
   "has_precipitation": true,
   "spawn_costs": {},
